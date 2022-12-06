@@ -5,7 +5,7 @@ b {color:bisque;font-size:18px;}
 i{color:brown; font-size:18px}
 header,footer{background-color:antiquewhite; text-align:center; font-size: 20px;}
 main{background-color:brown}
-.primeiroparagrafo{text-align:justify;font-size:18px;border: black 2px;padding:10px;margin:10px}
+.primeiroparagrafo{text-align:justify;font-size:18px;border: black solid 2px;padding:10px;margin:10px}
 #tituloimagem{width:5%;height:57.;}
 #lista{display:inline-block;}
 
